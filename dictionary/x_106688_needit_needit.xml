@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="NeedIt" max_length="40" name="x_106688_needit_needit" type="collection"/>
+    <element extends="task" label="NeedIt" max_length="40" name="x_106688_needit_needit" type="collection">
+        <element label="MyField1" max_length="40" name="myfield1" type="string"/>
+    </element>
 </database>
