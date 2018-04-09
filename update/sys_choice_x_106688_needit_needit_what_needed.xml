@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="what_needed" table="x_106688_needit_needit" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice 1</label>
+            <language>en</language>
+            <name>x_106688_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>joshua</sys_created_by>
+            <sys_created_on>2018-04-05 06:28:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b8769554f1113007c6b8deba310c783</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua</sys_updated_by>
+            <sys_updated_on>2018-04-05 06:28:20</sys_updated_on>
+            <value>Choice 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice 2</label>
+            <language>en</language>
+            <name>x_106688_needit_needit</name>
+            <sequence>1</sequence>
+            <sys_created_by>joshua</sys_created_by>
+            <sys_created_on>2018-04-05 06:28:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a78769554f1113007c6b8deba310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua</sys_updated_by>
+            <sys_updated_on>2018-04-05 06:28:20</sys_updated_on>
+            <value>Choice 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice 3</label>
+            <language>en</language>
+            <name>x_106688_needit_needit</name>
+            <sequence>2</sequence>
+            <sys_created_by>joshua</sys_created_by>
+            <sys_created_on>2018-04-05 06:28:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>638769554f1113007c6b8deba310c787</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua</sys_updated_by>
+            <sys_updated_on>2018-04-05 06:28:20</sys_updated_on>
+            <value>Choice 3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>what_needed</element>
+            <name>x_106688_needit_needit</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>joshua</sys_created_by>
+            <sys_created_on>2018-04-05 06:28:20</sys_created_on>
+            <sys_id>638769554f1113007c6b8deba310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>what_needed</sys_name>
+            <sys_package display_value="NeedIt" source="x_106688_needit">4ad9354b4f0113007c6b8deba310c79b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">4ad9354b4f0113007c6b8deba310c79b</sys_scope>
+            <sys_update_name>sys_choice_x_106688_needit_needit_what_needed</sys_update_name>
+            <sys_updated_by>joshua</sys_updated_by>
+            <sys_updated_on>2018-04-05 06:28:20</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
