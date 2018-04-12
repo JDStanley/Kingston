@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="ref_id" label="REF_ID" language="en" table="x_106688_needit_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ref_id</element>
+            <help/>
+            <hint/>
+            <label>REF_ID</label>
+            <language>en</language>
+            <name>x_106688_needit_needit</name>
+            <plural>REF_IDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>joshua</sys_created_by>
+            <sys_created_on>2018-04-10 10:13:15</sys_created_on>
+            <sys_id>87facc834f1d13007c6b8deba310c71e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>REF_ID</sys_name>
+            <sys_package display_value="NeedIt" source="x_106688_needit">4ad9354b4f0113007c6b8deba310c79b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">4ad9354b4f0113007c6b8deba310c79b</sys_scope>
+            <sys_update_name>sys_documentation_x_106688_needit_needit_ref_id_en</sys_update_name>
+            <sys_updated_by>joshua</sys_updated_by>
+            <sys_updated_on>2018-04-10 10:13:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

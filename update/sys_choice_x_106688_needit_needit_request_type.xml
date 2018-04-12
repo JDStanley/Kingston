@@ -2,7 +2,7 @@
 <record_update>
     <sys_choice action="INSERT_OR_UPDATE" field="request_type" table="x_106688_needit_needit" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
+            <dependent_value>facilities</dependent_value>
             <element>request_type</element>
             <hint/>
             <inactive>false</inactive>
@@ -15,9 +15,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>90666d154f1113007c6b8deba310c7fb</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>joshua</sys_updated_by>
-            <sys_updated_on>2018-04-05 06:23:11</sys_updated_on>
+            <sys_updated_on>2018-04-10 09:55:16</sys_updated_on>
             <value>facilities</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
