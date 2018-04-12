@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="myfield1" table="x_106688_needit_needit" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>myfield1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Operational</label>
+            <language>en</language>
+            <name>x_106688_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>joshua</sys_created_by>
+            <sys_created_on>2018-04-12 04:42:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>478251ab4f1113007c6b8deba310c790</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua</sys_updated_by>
+            <sys_updated_on>2018-04-12 04:42:52</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>myfield1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-Operational</label>
+            <language>en</language>
+            <name>x_106688_needit_needit</name>
+            <sequence>1</sequence>
+            <sys_created_by>joshua</sys_created_by>
+            <sys_created_on>2018-04-12 04:42:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c38251ab4f1113007c6b8deba310c792</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua</sys_updated_by>
+            <sys_updated_on>2018-04-12 04:42:52</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>myfield1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Repair in Progress</label>
+            <language>en</language>
+            <name>x_106688_needit_needit</name>
+            <sequence>2</sequence>
+            <sys_created_by>joshua</sys_created_by>
+            <sys_created_on>2018-04-12 04:42:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f8251ab4f1113007c6b8deba310c793</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua</sys_updated_by>
+            <sys_updated_on>2018-04-12 04:42:52</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>myfield1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DR Standby</label>
+            <language>en</language>
+            <name>x_106688_needit_needit</name>
+            <sequence>3</sequence>
+            <sys_created_by>joshua</sys_created_by>
+            <sys_created_on>2018-04-12 04:42:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b8251ab4f1113007c6b8deba310c795</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua</sys_updated_by>
+            <sys_updated_on>2018-04-12 04:42:52</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>myfield1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ready</label>
+            <language>en</language>
+            <name>x_106688_needit_needit</name>
+            <sequence>4</sequence>
+            <sys_created_by>joshua</sys_created_by>
+            <sys_created_on>2018-04-12 04:42:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>078251ab4f1113007c6b8deba310c797</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua</sys_updated_by>
+            <sys_updated_on>2018-04-12 04:42:52</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>myfield1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Retired</label>
+            <language>en</language>
+            <name>x_106688_needit_needit</name>
+            <sequence>5</sequence>
+            <sys_created_by>joshua</sys_created_by>
+            <sys_created_on>2018-04-12 04:42:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cf8251ab4f1113007c6b8deba310c798</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua</sys_updated_by>
+            <sys_updated_on>2018-04-12 04:42:52</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>myfield1</element>
+            <name>x_106688_needit_needit</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>joshua</sys_created_by>
+            <sys_created_on>2018-04-12 04:42:52</sys_created_on>
+            <sys_id>8f8251ab4f1113007c6b8deba310c791</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>myfield1</sys_name>
+            <sys_package display_value="NeedIt" source="x_106688_needit">4ad9354b4f0113007c6b8deba310c79b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">4ad9354b4f0113007c6b8deba310c79b</sys_scope>
+            <sys_update_name>sys_choice_x_106688_needit_needit_myfield1</sys_update_name>
+            <sys_updated_by>joshua</sys_updated_by>
+            <sys_updated_on>2018-04-12 04:42:52</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
