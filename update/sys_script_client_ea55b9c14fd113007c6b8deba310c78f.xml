@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update sys_domain="global" table="sys_script_client">
     <sys_script_client action="INSERT_OR_UPDATE">
-        <active>false</active>
+        <active>true</active>
         <applies_extended>false</applies_extended>
         <condition/>
         <description/>
@@ -24,7 +24,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ea55b9c14fd113007c6b8deba310c78f</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>NeedIt OnChange</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_106688_needit">4ad9354b4f0113007c6b8deba310c79b</sys_package>
@@ -32,7 +32,7 @@
         <sys_scope display_value="NeedIt">4ad9354b4f0113007c6b8deba310c79b</sys_scope>
         <sys_update_name>sys_script_client_ea55b9c14fd113007c6b8deba310c78f</sys_update_name>
         <sys_updated_by>joshua</sys_updated_by>
-        <sys_updated_on>2018-04-05 06:45:22</sys_updated_on>
+        <sys_updated_on>2018-06-07 12:26:18</sys_updated_on>
         <table>x_106688_needit_needit</table>
         <type>onChange</type>
         <ui_type>0</ui_type>
