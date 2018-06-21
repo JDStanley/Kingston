@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="JOrders" max_length="40" name="x_106688_needit_jorders" type="collection">
+        <element label="Item" max_length="40" name="item" type="string"/>
+        <element label="Region" max_length="40" name="region" type="string"/>
+        <element label="Rep" max_length="40" name="rep" type="string"/>
+        <element label="Total" max_length="40" name="total" type="integer"/>
+        <element label="Unit" max_length="40" name="unit" type="integer"/>
+        <element label="Unit Cost" max_length="40" name="unit_cost" type="integer"/>
+    </element>
+</database>

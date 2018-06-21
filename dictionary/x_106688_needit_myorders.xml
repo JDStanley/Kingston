@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="MyOrders" max_length="40" name="x_106688_needit_myorders" type="collection">
+        <element attributes="import_attribute_name=Item,edge_encryption_enabled=true" label="Item" max_length="40" name="u_item" type="string"/>
+        <element attributes="import_attribute_name=OrderDate" label="OrderDate" max_length="40" name="u_orderdate" type="glide_date"/>
+        <element attributes="import_attribute_name=Region,edge_encryption_enabled=true" label="Region" max_length="40" name="u_region" type="string"/>
+        <element attributes="import_attribute_name=Rep,edge_encryption_enabled=true" label="Rep" max_length="40" name="u_rep" type="string"/>
+        <element attributes="import_attribute_name=Total,edge_encryption_enabled=true" label="Total" max_length="40" name="u_total" type="string"/>
+        <element attributes="import_attribute_name=Units" label="Units" max_length="40" name="u_units" type="integer"/>
+        <element attributes="import_attribute_name=Unit Cost" label="Unit Cost" max_length="15" name="u_unit_cost" type="decimal"/>
+    </element>
+</database>
