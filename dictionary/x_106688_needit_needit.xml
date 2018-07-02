@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="NeedIt" max_length="40" name="x_106688_needit_needit" sizeclass="5" type="collection">
+    <element extends="task" label="NeedIt" max_length="40" name="x_106688_needit_needit" sizeclass="6" type="collection">
         <element choice_field="operational_status" choice_table="cmdb_ci" label="MyField1" max_length="40" name="myfield1" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="REF_ID" max_length="40" name="ref_id" type="string" use_dynamic_default="true"/>
         <element label="Requested for" max_length="40" name="requested_for" type="string"/>
